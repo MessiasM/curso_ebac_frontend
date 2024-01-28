@@ -12,10 +12,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - added changelog.md
-
-## Added/Adicionado para novos recursos.
-## Changed/Modificado para alterações em recursos existentes.
-## Deprecated/Obsoleto para recursos que serão removidos nas próximas versões.
-## Removed/Removido para recursos removidos nesta vgit ersão.
-## Fixed/Corrigido para qualquer correção de bug.
-## Security/Segurança em caso de vulnerabilidades.
